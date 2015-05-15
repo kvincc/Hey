@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "I just want say hello."
+exit
+
